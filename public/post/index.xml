@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Anwar Mirza&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My First Post</title>
+      <link>/2020/12/11/my-first-post/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/12/11/my-first-post/</guid>
+      <description>This is my first blog post. I will make many changes after this. Or add a couple of lines.</description>
+    </item>
     
     <item>
       <title>A Plain Markdown Post</title>
